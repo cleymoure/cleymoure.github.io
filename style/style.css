@@ -29,13 +29,14 @@ body {
   align-items: center;
 }
 
+.el__heading.black-text {
+  color: #000;
+}
+
 p {
   font-size: 20px;
   text-transform: initial;
   line-height: 1.7em;
-}
-
-.space-below {
   margin-bottom: 20px;
 }
 
